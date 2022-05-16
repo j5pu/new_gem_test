@@ -4,7 +4,7 @@ $:.unshift File.expand_path('../lib', __FILE__)
 require 'new_gem_test/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'new_gem_test'
+  s.name          = 'new_gem_test_bla'
   s.version       = NewGemTest::VERSION
   s.authors       = ['root']
   s.email         = ['root@example.com']
